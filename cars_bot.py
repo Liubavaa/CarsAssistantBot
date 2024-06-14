@@ -16,7 +16,6 @@ from llama_index.core import Settings
 nest_asyncio.apply()
 
 # Get OpenAI API key
-# os.environ['OPENAI_API_KEY'] = 'sk-proj-WEKTBUgM38191zybZGxHT3BlbkFJSzNFS0t7YOGCdsvHxe0u'
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 
