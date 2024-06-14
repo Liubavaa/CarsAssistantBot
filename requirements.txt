@@ -1,0 +1,8 @@
+pandas
+openpyxl
+llama-index
+llama-index-experimental
+openai
+nest_asyncio
+deepl
+pyTelegramBotAPI
