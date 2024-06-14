@@ -20,9 +20,10 @@ pip install -r requirements.txt
 export OPENAI_API_KEY='your_openai_api_key'
 ```
 
-
+##
 ### Executing program
 
+##
 #### CLI Bot
 
 In order to start CLI bot run:
@@ -31,6 +32,7 @@ python cars_bot.py cli
 ```
 Then wait for the "User:" line to appear in your terminal and try asking questions.
 
+##
 #### Telegram Bot
 
 In order to start Telegram bot run:
