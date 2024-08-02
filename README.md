@@ -1,6 +1,7 @@
 # Cars Assistant Bot
 
-Provide CLI and Telegram versions of AI-Bot based on ChatGPT-4. The bot processed the included dataset (```merged_data_test_task.xlsx```). The dataset contains information about available cars in different countries. As a result, bot can assist to find best option among all cars for a specific user request.
+This project implements an interactive chat system using OpenAI's language models, designed to provide information about car availability based on a dataset. The system supports two modes of interaction: a command-line interface (CLI) and a Telegram bot. It leverages natural language processing to answer user queries about cars, including brand, model, price, location, and contact person. Additionally, it can handle more complex queries requiring general knowledge.
+
 
 ### Installing
 
